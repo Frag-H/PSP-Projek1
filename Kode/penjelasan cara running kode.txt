@@ -1,6 +1,0 @@
-Penjelasan folder: 
-Ada 3 folder, female, male, program. Male dan Female adalah folder untuk input untuk suara noisy. Ada 3 jenis noise yang digunakan: babble, exhibition, restaurant. Di masing-masing folder male dan female juga ada clean speechnya. 
-
-Petunjuk Running Kode MATLAB : 
-1. Buka folder program, cari dan buka file .m main
-2. Run dengan sesuaikan lokasi file kalian (lihat penjelasan kode di file .m main)
